@@ -1,7 +1,7 @@
 {
-  "name": "@fiquu/shorten",
-  "version": "1.0.1",
-  "description": "Shortens a string (truncate) optionally keeping whole words.",
+  "name": "@fiquu/template",
+  "version": "0.0.0",
+  "description": "fiquu project template.",
   "main": "lib/index.js",
   "scripts": {
     "test": "nyc mocha -r ts-node/register test/**/*.spec.ts",
@@ -12,21 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fiquu/shorten.git"
+    "url": "git+https://github.com/fiquu/template.git"
   },
   "keywords": [
-    "shorten",
-    "truncate",
-    "string",
-    "words",
-    "ellipsis"
+    "template"
   ],
   "author": "fiquu (https://github.com/fiquu) <hi@fiquu.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fiquu/shorten/issues"
+    "url": "https://github.com/fiquu/template/issues"
   },
-  "homepage": "https://github.com/fiquu/shorten#readme",
+  "homepage": "https://github.com/fiquu/template#readme",
   "engines": {
     "node": ">= 12",
     "npm": ">= 6"
