@@ -1,2 +1,3 @@
-# project-template
-fiquu project template.
+# template
+
+fiquu project template. Use this for new projects.
