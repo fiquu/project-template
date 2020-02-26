@@ -7,3 +7,13 @@
 ![npm](https://img.shields.io/npm/dw/@fiquu/template)
 
 fiquu project template. Use this for new projects.
+
+## Installation
+
+```sh
+npm i @fiquu/template
+```
+
+## Documentation
+
+Please see https://fiquu.github.io/template/ for more details.
