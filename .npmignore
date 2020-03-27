@@ -1,7 +1,11 @@
 **/.eslintrc
 **/*.spec.ts
+.eslintignore
+tsconfig.json
 typedoc.json
 .nyc_output
+.travis.yml
+.npmignore
 .gitignore
 coverage
 .nycrc
