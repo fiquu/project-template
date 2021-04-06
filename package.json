@@ -33,7 +33,7 @@
     "npm": "6"
   },
   "devDependencies": {
-    "@fiquu/eslint-config": "^4.0.0",
+    "@fiquu/eslint-config": "^4.0.1",
     "@types/chai": "^4.2.16",
     "@types/faker": "^4.1.12",
     "@types/mocha": "^8.2.2",
