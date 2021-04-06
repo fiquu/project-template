@@ -11,7 +11,7 @@ fiquu project template. Use this for new projects.
 ## Installation
 
 ```sh
-npm i @fiquu/template
+npm i
 ```
 
 ## Documentation
